@@ -4,7 +4,9 @@ A sleek and modern **Pomodoro Timer** built with **React.js** to boost productiv
 
 ---
 
-🚀 Live Features
+🚀 Live Demo &feature
+
+https://jobtrackingdashboard.vercel.app/
 
 ⏳ 25-minute focus timer  
 ☕ 5-minute break timer  
@@ -57,6 +59,14 @@ npm install
 npm start
 ```
 
+🌐 Deployment
+Deployed on Vercel
+
+npm install -g vercel
+vercel
+
+
+
 🎮 How to Use
 
 1> Click Start ▶️
@@ -68,19 +78,32 @@ npm start
 4> Repeat 🔁
 
 ✨ Key Highlights
+
 ✔ Simple & distraction-free UI
+
 ✔ Timer logic using React hooks
+
 ✔ Beginner-friendly project
 
 🚀 Future Improvements
+
 🌙 Dark mode toggle
+
 📊 Session tracking
+
 🎵 Custom alert sounds
+
 📱 Mobile UI improvements
 
-👨‍💻 Author
-Ayush Sharma
+🤝 Contributing
+Contributions are welcome!
+
+fork → clone → create branch → commit → push → PR
+
+
+💡 Author
+👤 Ayush Sharma 📧 sharmaayush0941@gmail.com 🌐 GitHub: https://github.com/ayush790084
+
 
 ⭐ Support
 If you like this project, give it a ⭐!
-If you like this project, give it a ⭐ on GitHub!
