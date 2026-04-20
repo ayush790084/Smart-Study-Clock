@@ -25,6 +25,9 @@ https://jobtrackingdashboard.vercel.app/
 
 🖼️ Preview
 
+<img width="1148" height="814" alt="image" src="https://github.com/user-attachments/assets/243b5595-22b9-4084-8c60-bddab01f6e15" />
+<img width="791" height="788" alt="image" src="https://github.com/user-attachments/assets/adee60f9-9a25-4359-824f-75060f77dd4d" />
+<img width="1106" height="1039" alt="image" src="https://github.com/user-attachments/assets/4ae1621c-7f34-4f39-8aaa-6561421cbf96" />
 
 
 ---
