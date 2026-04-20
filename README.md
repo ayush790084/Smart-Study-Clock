@@ -1,39 +1,34 @@
-🔥 Pomodoro Timer App/ Smart Study Clock
+## 🔥 Pomodoro Timer App/ Smart Study Clock
 
 A sleek and modern **Pomodoro Timer** built with **React.js** to boost productivity using the proven Pomodoro Technique 🍅
 
 ---
 
-🚀 Live Demo &feature
-
-https://jobtrackingdashboard.vercel.app/
+## 🚀 Live Demo & feature
+https://smart-study-clock.vercel.app/
 
 ⏳ 25-minute focus timer  
 ☕ 5-minute break timer  
 ▶️ Start / Pause / Reset controls  
 🔔 Sound alert when session ends 
-💻 Fully responsive & clean UI 
-🌙 Dark mode toggle
+💻 Fully responsive & clean UI
 
 ---
 
-🖼️ Preview
-
-<img width="1148" height="814" alt="image" src="https://github.com/user-attachments/assets/243b5595-22b9-4084-8c60-bddab01f6e15" />
-<img width="791" height="788" alt="image" src="https://github.com/user-attachments/assets/adee60f9-9a25-4359-824f-75060f77dd4d" />
-<img width="1106" height="1039" alt="image" src="https://github.com/user-attachments/assets/4ae1621c-7f34-4f39-8aaa-6561421cbf96" />
-
+## 🖼️ Preview
+<img width="814" height="720" alt="image" src="https://github.com/user-attachments/assets/b436951f-c6bd-40ab-be5b-aff70e582aae" />
+<img width="791" height="668" alt="image" src="https://github.com/user-attachments/assets/6e484c0a-e54f-4cee-8520-50753654cec7" />
 
 ---
 
-🧠 What is Pomodoro Technique?
+## 🧠 What is Pomodoro Technique?
 
 > Work for **25 minutes**, then take a **5-minute break**  
 > Repeat → Stay focused → Avoid burnout 🚀
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 - ⚛️ React.js  
 - 🟨 JavaScript (ES6)  
@@ -41,7 +36,7 @@ https://jobtrackingdashboard.vercel.app/
 
 ---
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 
 # Clone repository
 ```
@@ -63,7 +58,7 @@ npm install
 npm start
 ```
 
-🌐 Deployment
+## 🌐 Deployment
 Deployed on Vercel
 
 npm install -g vercel
@@ -71,7 +66,7 @@ vercel
 
 ---
 
-✨ Key Highlights
+## ✨ Key Highlights
 
 ✔ Simple & distraction-free UI
 
@@ -81,7 +76,7 @@ vercel
 
 ---
 
-🚀 Future Improvements
+## 🚀 Future Improvements
 
 📊 Session tracking
 
@@ -91,7 +86,7 @@ vercel
 
 ---
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 fork → clone → create branch → commit → push → PR
