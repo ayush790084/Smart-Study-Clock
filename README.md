@@ -16,19 +16,19 @@ https://jobtrackingdashboard.vercel.app/
 
 ---
 
-🧠 What is Pomodoro Technique?
-
-> Work for **25 minutes**, then take a **5-minute break**  
-> Repeat → Stay focused → Avoid burnout 🚀
-
----
-
 🖼️ Preview
 
 <img width="1148" height="814" alt="image" src="https://github.com/user-attachments/assets/243b5595-22b9-4084-8c60-bddab01f6e15" />
 <img width="791" height="788" alt="image" src="https://github.com/user-attachments/assets/adee60f9-9a25-4359-824f-75060f77dd4d" />
 <img width="1106" height="1039" alt="image" src="https://github.com/user-attachments/assets/4ae1621c-7f34-4f39-8aaa-6561421cbf96" />
 
+
+---
+
+🧠 What is Pomodoro Technique?
+
+> Work for **25 minutes**, then take a **5-minute break**  
+> Repeat → Stay focused → Avoid burnout 🚀
 
 ---
 
@@ -68,17 +68,6 @@ Deployed on Vercel
 npm install -g vercel
 vercel
 
-
-
-🎮 How to Use
-
-1> Click Start ▶️
-
-2> Focus for 25 minutes
-
-3> Take a break ☕
-
-4> Repeat 🔁
 
 ✨ Key Highlights
 
