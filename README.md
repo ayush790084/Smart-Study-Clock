@@ -60,10 +60,10 @@ npm start
 
 ## 🌐 Deployment
 Deployed on Vercel
-
+```
 npm install -g vercel
 vercel
-
+```
 ---
 
 ## ✨ Key Highlights
@@ -83,6 +83,8 @@ vercel
 🎵 Custom alert sounds
 
 📱 Mobile UI improvements
+
+🌙 Dark mode toggle
 
 ---
 
