@@ -68,6 +68,7 @@ Deployed on Vercel
 npm install -g vercel
 vercel
 
+---
 
 ✨ Key Highlights
 
@@ -76,6 +77,8 @@ vercel
 ✔ Timer logic using React hooks
 
 ✔ Beginner-friendly project
+
+---
 
 🚀 Future Improvements
 
@@ -87,15 +90,19 @@ vercel
 
 📱 Mobile UI improvements
 
+---
+
 🤝 Contributing
 Contributions are welcome!
 
 fork → clone → create branch → commit → push → PR
 
+---
 
 💡 Author
 👤 Ayush Sharma 📧 sharmaayush0941@gmail.com 🌐 GitHub: https://github.com/ayush790084
 
+---
 
 ⭐ Support
 If you like this project, give it a ⭐!
