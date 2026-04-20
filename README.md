@@ -12,7 +12,8 @@ https://jobtrackingdashboard.vercel.app/
 ☕ 5-minute break timer  
 ▶️ Start / Pause / Reset controls  
 🔔 Sound alert when session ends 
-💻 Fully responsive & clean UI  
+💻 Fully responsive & clean UI 
+🌙 Dark mode toggle
 
 ---
 
@@ -81,8 +82,6 @@ vercel
 ---
 
 🚀 Future Improvements
-
-🌙 Dark mode toggle
 
 📊 Session tracking
 
